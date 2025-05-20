@@ -16,3 +16,8 @@
 OSPREY is an open-source initiative designed to give contributors—especially fresh graduates and early-career developers—a structured opportunity to gain real-world project experience. In exchange for a weekly time commitment, volunteers collaborate on bite‑sized open-source projects, get practical coding & project‑management practice, and contribute to education & research in the computer science network.
 
 
+## How It Works
+
+1. **Intake & Matching**  
+   - Fill out our [OSPREY Intake Form](https://forms.gle/) to share your background, confidence areas, and interests - choose your focus areas & Indicate whether you’d like work as a Developer or Project manager
+
