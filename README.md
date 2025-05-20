@@ -26,7 +26,7 @@ OSPREY is an open-source initiative designed to give contributors—especially f
    - Project Managers are engineers in charge of proposing new & existing OSPREY projects ensuring the developers are on the right track
 
 3. **Weekly Check‑Ins**  
-   - Devs & PM's log their hours in our weekly form to verify progress. [OSPREY Weekly Form](https://forms.gle/)
+   - Devs & PM's log their hours in our weekly form to verify progress. [OSPREY Weekly Form](https://forms.gle/wmjEshBNJuuK4ZTt8)
    - PMs communicate directly to devs on updates, on scope, progress, & deliverables.
    - The above is reviewed by an OSPREY Admin to verify operations are up to standard
 
