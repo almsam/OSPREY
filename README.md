@@ -19,7 +19,7 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 ## How It Works
 
 1. **Intake & Matching**  
-   - Fill out our [OSPREY Intake Form](https://forms.gle/) to share your background, confidence areas, and interests - choose your focus areas & Indicate whether you’d like work as a Developer or Project manager
+   - Fill out our [OSPREY Intake Form](https://forms.gle/7pdDQtkV4XDXB1TE9) to share your background, confidence areas, and interests - choose your focus areas & Indicate whether you’d like work as a Developer or Project manager
 
 2. **Project Assignment**  
    - Developers are paired with small, well-scoped repositories aligned to their skill levels - optimizing to both improve existing skills & develop new ones.  
