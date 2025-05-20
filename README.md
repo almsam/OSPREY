@@ -50,3 +50,9 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 6. **Write ups:** Write a small message (min 50 words) to an OSPREY Admin to provide updates as to the progress of the project
 
 - The writeup must exceed 100 words for the first 3 weeks of the project & must exceed 50 for every week after that
+
+---
+
+*Ready to launch your open‑source journey?*  
+Fill out the form and let’s build together!  
+[OSPREY Intake Form](https://forms.gle/7pdDQtkV4XDXB1TE9)
