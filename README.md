@@ -30,3 +30,11 @@ OSPREY is an open-source initiative designed to give contributors—especially f
    - PMs communicate directly to devs on updates, on scope, progress, & deliverables.
    - The above is reviewed by an OSPREY Admin to verify operations are up to standard
 
+
+## Regulations for Developers:
+
+1. **Issues:** Close at least 1 issue per week, & open at least 1 issue for the following week
+2. **Pull requests:** Open, review, & merge 1 PR per week 
+3. **Time constraints:** Invest at least 2 hours of work per week into your project
+
+
