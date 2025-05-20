@@ -53,6 +53,12 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 
 ---
 
+## Contact & Support
+
+- **Email:** osprey.project.adm@gmail.com  
+- **Questions?** Raise an issue in this repo or reach out to the email & the google form to contact an OSPREY Admin directly
+
+
 *Ready to launch your open‑source journey?*  
 Fill out the form and let’s build together!  
 [OSPREY Intake Form](https://forms.gle/7pdDQtkV4XDXB1TE9)
