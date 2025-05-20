@@ -37,4 +37,10 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 2. **Pull requests:** Open, review, & merge 1 PR per week 
 3. **Time constraints:** Invest at least 2 hours of work per week into your project
 
+## Regulations for Project Managers:
+
+
+3. **Time constraints:** Invest at least 3 hours of work per week into your project - at least 2  for development & 1 for management
+4. **Management:** Manage the Developers to ensure successful 'slow & steady' progress is made on the project
+5. **Repositories:** Ensure smooth operation for the GitHub repository (make sure branches/PR's/code review, testing, documentation, & the best software development practices are being followed)
 
