@@ -43,4 +43,6 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 3. **Time constraints:** Invest at least 3 hours of work per week into your project - at least 2  for development & 1 for management
 4. **Management:** Manage the Developers to ensure successful 'slow & steady' progress is made on the project
 5. **Repositories:** Ensure smooth operation for the GitHub repository (make sure branches/PR's/code review, testing, documentation, & the best software development practices are being followed)
+6. **Write ups:** Write a small message (min 50 words) to an OSPREY Admin to provide updates as to the progress of the project
+
 
