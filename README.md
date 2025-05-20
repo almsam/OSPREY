@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/almsam/OSPREY">
-  <img src="OSPREY logo.png" alt="Logo" width="180" height="180">
+  <img src="OSPREY logo.png" alt="Logo" width="270" height="270">
 </a>
 
 <h1 align="center">OSPREY</h1>
