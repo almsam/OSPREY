@@ -27,3 +27,9 @@ We aim to foster a collaborative, professional, and respectful environment for a
 
 1. **Professionalism**:  
    No NSFW content. Keep all conversations and contributions professional and appropriate for a workplace environment. Treat everyone with respect & do your part to maintain a healthy environment.
+
+2. **Supportive Culture**:  
+   Try to help others whenever you can. We're here to learn and grow together. If someone asks a question that you think is "dumb", DO NOT make fun of or ridicule them, be nice and just answer or ignore it for someone else. We are here to promote learning and keep people as interested as possible, not to discourage anyone from contributing.
+
+3. **Intellectual Property & Ethical Practice**:  
+   No copyright or IP violations. Cite all programming based work appropriately by disclosing & forward any relevant licenses, & Cite all academic content using APA or a similar format. OSPREY is focused on contributing to the field & plagiarism is not tolerated
