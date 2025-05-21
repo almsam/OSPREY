@@ -115,3 +115,23 @@ OSPREY admins will hold project managers to a similar if not higher standard to 
 
 Any repeated failures to adhere to the Social or Technical Expectations may also result in Revocation of the Project Manager role & demotion to a Developer
 
+---
+
+## Exceptions & Appeals:
+
+---
+
+## Questions or Concerns?
+
+Reach out directly to an OSPREY Admin via email or Raise an issue in this repo.
+
+- **Email:** osprey.project.adm@gmail.com  
+
+
+*Ready to launch your open‑source journey?*  
+Fill out the form and let’s build together!  
+[OSPREY Intake Form](https://forms.gle/7pdDQtkV4XDXB1TE9)
+
+Let’s build cool things — together.
+
+— *The OSPREY Team*
