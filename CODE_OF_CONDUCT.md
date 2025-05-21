@@ -13,6 +13,10 @@
 
 </p>
 
+<h1 align="center">Code of Conduct</h1>
+
 </div>
 
+Welcome to **Project OSPREY** — *Open Source Projects for Research, Education, & You*.
 
+We aim to foster a collaborative, professional, and respectful environment for all contributors. This document outlines the expectations and responsibilities of all participants, both on Discord and within the project repositories.
