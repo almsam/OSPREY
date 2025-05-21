@@ -119,6 +119,12 @@ Any repeated failures to adhere to the Social or Technical Expectations may also
 
 ## Exceptions & Appeals:
 
+### Appeals for Social Standard Violations:
+
+Should an OSPREY Developer or Project Manager take issues with the decisions of the OSPREY admin team, there are 2 cases for the appeals process:
+- Victimless social standard violations may be appealed through apology to a member of OSPREY admin
+- Social standard violations with victims may be appealed through the victim receiving an apology & recommending the admin decision be appealed
+
 ---
 
 ## Questions or Concerns?
