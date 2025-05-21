@@ -20,3 +20,10 @@
 Welcome to **Project OSPREY** — *Open Source Projects for Research, Education, & You*.
 
 We aim to foster a collaborative, professional, and respectful environment for all contributors. This document outlines the expectations and responsibilities of all participants, both on Discord and within the project repositories.
+
+---
+
+## Social expectations:
+
+1. **Professionalism**:  
+   No NSFW content. Keep all conversations and contributions professional and appropriate for a workplace environment. Treat everyone with respect & do your part to maintain a healthy environment.
