@@ -47,7 +47,7 @@ We aim to foster a collaborative, professional, and respectful environment for a
 
 ## Violations:
 
-OSPREY admins will generally run on a 2 strike system, but reserve the right to issue consequences as they see fit
+OSPREY admins will generally run on a 2 strike system for Social standards, but reserve the right to issue consequences as they see fit
 
 A first failure to adhere to the social Expectations may result in:
 
@@ -77,8 +77,6 @@ To gain credit, job reference, and be in good standing as an OSPREY Developer, y
 2. **Pull requests:** Open, review, & merge 1 PR per week
 3. **Time constraints:** Invest at least 2 hours of work per week into your project
 
----
-
 ### Project Manager Responsibilities
 
 In addition to Developer responsibilities 1 & 2, PMs must:
@@ -90,4 +88,24 @@ In addition to Developer responsibilities 1 & 2, PMs must:
 
 - The writeup must exceed 100 words for the first 3 weeks of the project & must exceed 50 for every week after that
 
----
+## Violations:
+
+### Developer Violations:
+
+OSPREY admins will generally run on a 3 strike system for Technical standards, but reserve the right to issue consequences as they see fit
+
+A first failure to adhere to the Technical Expectations may result in:
+
+- A warning 
+- Transfer to another OSPREY project
+
+Any further failures to adhere to the social Expectations may result in:
+
+- Transfer to another OSPREY project
+- A reflection of the repeated failures in future job references
+- Revocation of job reference eligibility
+- A temporary or permanent Suspension or ban from the OSPREY community
+
+We believe in second chances and growth, but also in ensuring the quality of our products
+
+
