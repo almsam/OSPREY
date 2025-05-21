@@ -46,3 +46,15 @@ We aim to foster a collaborative, professional, and respectful environment for a
    Have fun. Enjoy the journey of learning, contributing, and collaborating.
 
 ---
+
+## Technical expectations:
+
+### Developer Responsibilities
+
+To gain credit, job reference, and be in good standing as an OSPREY Developer, you must:
+
+1. **Issues:** Close at least 1 issue per week, & open at least 1 issue for the following week
+2. **Pull requests:** Open, review, & merge 1 PR per week
+3. **Time constraints:** Invest at least 2 hours of work per week into your project
+
+---
