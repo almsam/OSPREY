@@ -131,7 +131,9 @@ Appeals for violating technical standards will generally be granted with convers
 
 Appeals for smaller violations may also be granted by Project Managers
 
+### Additional General appeals case:
 
+In the event that the above cases for appeals fail, a final method of appeal may be executed by getting 2 other OSPREY members agree to review an appeals case & provide an alternative decision to the OSPREY admins decision. This is primarily intended for cases with conflicts of interest within the involved parties impeding normal appeals processes.
 
 ---
 
