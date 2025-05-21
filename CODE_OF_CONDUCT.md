@@ -45,6 +45,26 @@ We aim to foster a collaborative, professional, and respectful environment for a
 5. **Enjoyment**:  
    Have fun. Enjoy the journey of learning, contributing, and collaborating.
 
+## Violations:
+
+OSPREY admins will generally run on a 2 strike system, but reserve the right to issue consequences as they see fit
+
+A first failure to adhere to the social Expectations may result in:
+
+- A warning 
+- A temporary Suspension or ban from the OSPREY community
+- Transfer to another OSPREY project
+- A reflection of the incident in future job references
+
+Any further failures to adhere to the social Expectations may result in:
+
+- A temporary or permanent Suspension or ban from the OSPREY community
+- Transfer to another OSPREY project
+- A reflection of the incident in future job references
+- Revocation of job reference eligibility  
+
+We believe in second chances and growth, but also in protecting our contributors and mission.
+
 ---
 
 ## Technical expectations:
