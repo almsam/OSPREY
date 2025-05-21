@@ -125,6 +125,14 @@ Should an OSPREY Developer or Project Manager take issues with the decisions of 
 - Victimless social standard violations may be appealed through apology to a member of OSPREY admin
 - Social standard violations with victims may be appealed through the victim receiving an apology & recommending the admin decision be appealed
 
+### Appeals for Technical Standard Violations:
+
+Appeals for violating technical standards will generally be granted with conversation with OSPREY admin members, however repeated appeals aren't guaranteed to pass as the intention behind this clause is personal emergencies not penalizing your progress
+
+Appeals for smaller violations may also be granted by Project Managers
+
+
+
 ---
 
 ## Questions or Concerns?
