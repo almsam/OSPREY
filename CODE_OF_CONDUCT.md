@@ -99,7 +99,7 @@ A first failure to adhere to the Technical Expectations may result in:
 - A warning 
 - Transfer to another OSPREY project
 
-Any further failures to adhere to the social Expectations may result in:
+Any further failures to adhere to the Technical Expectations may result in:
 
 - Transfer to another OSPREY project
 - A reflection of the repeated failures in future job references
@@ -108,4 +108,10 @@ Any further failures to adhere to the social Expectations may result in:
 
 We believe in second chances and growth, but also in ensuring the quality of our products
 
+
+### Project Manager Violations:
+
+OSPREY admins will hold project managers to a similar if not higher standard to developers, so as a result violations of the PM regulations will generally be more harsh then the developer criteria. In addition to this:
+
+Any repeated failures to adhere to the Social or Technical Expectations may also result in Revocation of the Project Manager role & demotion to a Developer
 
