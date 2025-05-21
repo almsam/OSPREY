@@ -74,6 +74,7 @@ We believe in second chances and growth, but also in protecting our contributors
 To gain credit, job reference, and be in good standing as an OSPREY Developer, you must:
 
 1. **Issues:** Close at least 1 issue per week, & open at least 1 issue for the following week
+- opening a new issue may be replaced with assigning yourself an existing issue with approval of a Project Manager, this needs to be included in the PM's weekly writeup
 2. **Pull requests:** Open, review, & merge 1 PR per week
 3. **Time constraints:** Invest at least 2 hours of work per week into your project
 
