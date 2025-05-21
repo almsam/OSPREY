@@ -58,3 +58,16 @@ To gain credit, job reference, and be in good standing as an OSPREY Developer, y
 3. **Time constraints:** Invest at least 2 hours of work per week into your project
 
 ---
+
+### Project Manager Responsibilities
+
+In addition to Developer responsibilities 1 & 2, PMs must:
+
+3. **Time constraints:** Invest at least 3 hours of work per week into your project - at least 2  for development & 1 for management
+4. **Management:** Manage the Developers to ensure successful 'slow & steady' progress is made on the project
+5. **Repositories:** Ensure smooth operation for the GitHub repository (make sure branches/PR's/code review, testing, documentation, & the best software development practices are being followed)
+6. **Write ups:** Write a small message (min 50 words) to an OSPREY Admin to provide updates as to the progress of the project
+
+- The writeup must exceed 100 words for the first 3 weeks of the project & must exceed 50 for every week after that
+
+---
