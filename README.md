@@ -52,6 +52,9 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 
 - The writeup must exceed 100 words for the first 3 weeks of the project & must exceed 50 for every week after that
 
+
+See our [Code of Conduct](CODE_OF_CONDUCT.md)
+
 ---
 
 ## Contact & Support
