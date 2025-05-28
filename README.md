@@ -23,7 +23,7 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 
 1. **Intake & Matching**
 
-   - Fill out our [OSPREY Intake Form](https://forms.gle/7pdDQtkV4XDXB1TE9) to share your background, confidence areas, and interests - choose your focus areas & Indicate whether you’d like work as a Developer or Project manager
+   - Fill out our [OSPREY Intake Form](https://forms.gle/7pdDQtkV4XDXB1TE9) to share your background, confidence areas, and interests - choose your focus areas & Indicate whether you’d like work as a Developer or Project manager. Once that is done, send an email to osprey.project.adm@gmail.com to let us know to finish the intake process.
 2. **Project Assignment**
 
    - Developers are paired with small, well-scoped repositories aligned to their skill levels - optimizing to both improve existing skills & develop new ones.
