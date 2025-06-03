@@ -18,7 +18,7 @@ furnished to do so, subject to the following conditions:
    > created by contributors including [Names of developers].  
    > For more information, visit:
    >> https://github.com/almsam/OSPREY & 
-   >> https://github.com/almsam/OSPREY/Social code of conduct.md "
+   >> https://github.com/almsam/OSPREY/Social Code of Conduct.md "
 
 2. **Community Respect Clause**  
    The Software shall not be used in any project or system that violates the OSPREY Social Code of Conduct
