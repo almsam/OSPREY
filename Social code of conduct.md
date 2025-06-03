@@ -22,3 +22,20 @@ Welcome to **Project OSPREY** — *Open Source Projects for Research, Education,
 We aim to foster a collaborative, professional, and respectful environment for all contributors. This document outlines the expectations and responsibilities of all participants, both on Discord and within the project repositories.
 
 ---
+
+---
+
+## Questions or Concerns?
+
+Reach out directly to an OSPREY Admin via email or Raise an issue in this repo.
+
+- **Email:** osprey.project.adm@gmail.com  
+
+
+*Ready to launch your open‑source journey?*  
+Fill out the form and let’s build together!  
+[OSPREY Intake Form](https://forms.gle/7pdDQtkV4XDXB1TE9)
+
+Let’s build cool things — together.
+
+— *The OSPREY Team*
