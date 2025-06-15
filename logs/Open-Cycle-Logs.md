@@ -12,4 +12,4 @@
 | 1         | Minami   | 1                   | 9            | 8             | over 3              | yes                       |
 | 1         | Alex     | 2                   | 6            | 11            | around 2            | yes                       |
 
-- Writeup: ` Writeup preview Writeup preview Writeup preview `
+- Writeup: ` For now, the component seems to be coming along - this pace should be acceptable. `
