@@ -8,8 +8,8 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-|           |          |                     |              |               |                     |                           |
-|           |          |                     |              |               |                     |                           |
-|           |          |                     |              |               |                     |                           |
+| 1         | Bao      | 4                   | 5            | 7             | around 2            | yes                       |
+| 1         | Minami   | 1                   | 9            | 8             | over 3              | yes                       |
+| 1         | Alex     | 2                   | 6            | 11            | around 2            | yes                       |
 
 - Writeup: ` Writeup preview Writeup preview Writeup preview `
