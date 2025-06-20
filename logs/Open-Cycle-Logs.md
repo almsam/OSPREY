@@ -14,3 +14,13 @@
 | 1         | Estella  | 3 (ip)              | (ip)         | 12            | (ip)                | //Iteration in progress   |
 
 - Writeup: ` For now, the component seems to be coming along - this pace should be acceptable. `
+
+- #### Iteration 2
+
+- dates: [16/6/2025] to [23/6/2025]
+
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 2         |          |                     |              |               |                     |                           |
+
+- Writeup: `  `
