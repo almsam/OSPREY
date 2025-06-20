@@ -11,7 +11,7 @@
 | 1         | Bao      | 4                   | 5            | 7             | around 2            | yes                       |
 | 1         | Minami   | 1                   | 9            | 8             | over 3              | yes                       |
 | 1         | Alex     | 2                   | 6            | 11            | around 2            | yes                       |
-| 1         | Estella  | 3 (ip)              | (ip)         | 12            | (ip)                | //Iteration in progress   |
+| 1         | Estella  | 3                   | 13           | 12            | around 1            | yes                       |
 
 - Writeup: ` For now, the component seems to be coming along - this pace should be acceptable. `
 
