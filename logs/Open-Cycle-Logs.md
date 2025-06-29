@@ -21,6 +21,11 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 2         |          |                     |              |               |                     |                           |
+| 2         | Minami   | 8                   | 20           | 21            | ip                  | ip                        |
+| 2         | Bao      | 22                  | 18           |               | ip                  | ip                        |
+| 2         | Alex     | 11 ip               |              |               | ip                  | ip                        |
+| 2         | Estella  | 19                  |              |               | ip                  | ip                        |
+
+- Backlog: issue 7, 12
 
 - Writeup: `  `
