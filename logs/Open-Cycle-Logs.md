@@ -26,6 +26,6 @@
 | 2         | Alex     | 11                  | 24           | 26            | over 3              | yes                       |
 | 2         | Estella  | 19                  | 23           | 27            | around 1            | yes                       |
 
-- Backlog: issue 7, 1, & 2/3
+- Backlog: issue 1, 3, & 7
 
-- Writeup: `  `
+- Writeup: ` After a massive issue merging & changing the tech stack we had to extend iteration 2 to 2 weeks - but at the end we should clear issues 1 & 3 with this iterations work & extend 7 for another week `
