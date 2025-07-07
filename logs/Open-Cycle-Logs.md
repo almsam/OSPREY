@@ -34,9 +34,14 @@
 
 - dates: [30/6/2025] to [6/7/2025]
 
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 2         | Minami   | 21                  | 28           |               |                     |                           | (ip)
+| 2         | Estella  | 27 (ip)             |              |               |                     |                           | (ip)
+
 - Backlog: issue 1, 3, & 7
 
-- Writeup: `  `
+- Writeup: ` Both Alex & Bao were out of it due to personal things - Alex got an extension while Bao's was deffered to Minami - slow & steady feels more slow but incredibly stedy with an average of 2-3 issues a week `
 
 
 
