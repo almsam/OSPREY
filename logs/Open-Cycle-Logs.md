@@ -29,3 +29,21 @@
 - Backlog: issue 1, 3, & 7
 
 - Writeup: ` After a massive issue merging & changing the tech stack we had to extend iteration 2 to 2 weeks - but at the end we should clear issues 1 & 3 with this iterations work & extend 7 for another week `
+
+#### Iteration 3
+
+- dates: [30/6/2025] to [6/7/2025]
+
+- Backlog: issue 1, 3, & 7
+
+- Writeup: `  `
+
+
+
+
+
+
+
+
+
+
