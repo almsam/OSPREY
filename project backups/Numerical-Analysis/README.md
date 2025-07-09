@@ -29,3 +29,12 @@ But as of issue #84 & pr #92, the app now looks like:
 - Regression_Standards_Test.py
 
 the legacy test cases are now saved in this repo for archiving
+
+##### The cases are as follows:
+- Plot_Finder_Test_Fourier.py
+- Plot_Finder_Test_Higher.py
+- Plot_Finder_Test_Lower.py
+- Plot_Finder_Test_Quad.py
+##### And:
+- Regression_Finder_General_Test.py
+- Regression_Finder_Standards_Test.py
