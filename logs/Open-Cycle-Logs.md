@@ -48,7 +48,7 @@
 
 #### Iteration 4
 
-- dates: [30/6/2025] to [6/7/2025]
+- dates: [7/7/2025] to [13/7/2025]
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
