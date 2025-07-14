@@ -52,7 +52,11 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 3         | Minami   | 25, 29, & 1         | 36           | 39            | around 1            | yes                       |
+| 3         | Estella  | 30 (ip)                 | 38           | 32            | (ip)                    | (ip)                       |
+| 3         | Alex     | 26, & 3             | 37           | 40            | over 3              | yes                       |
 
+- Backlog: issue 7
 
 - Writeup: ` `
 
