@@ -58,7 +58,7 @@
 
 - Backlog: issue 7
 
-- Writeup: ` `
+- Writeup: ` The UI is coming together, & we have a good chunk of backend in place - lets push forward at this pace & we can reach a milestone in no time at all `
 
 
 
