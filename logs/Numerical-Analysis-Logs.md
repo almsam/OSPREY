@@ -8,7 +8,9 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 1         | Charles  |                     |              |               |                     |                           |
 
 
-- Writeup: ` For now, the component seems to be coming along - this pace should be acceptable. `
+
+- Writeup: `  `
 
