@@ -1,6 +1,6 @@
 # Weekly Log for Numerical analysis code
 
-## Iterations:
+## Iteration progress:
 
 | Iteration | Dates                     | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | ------------------------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
@@ -8,5 +8,6 @@
 
 
 
-- Writeup: `  `
+## Writeups: 
+- Iteration 1: `  `
 
