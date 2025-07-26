@@ -1,0 +1,75 @@
+%A=[1,-1,1];
+%B=[2,1,-1];
+%C=[-1,2,2];
+
+%AB=B-A;
+%AC=C-A;
+
+%norm=cross(AB,AC);
+%a=norm(1)
+%b=norm(2)
+%c=norm(3)
+%d=-dot( [ a b c ] ,A)
+
+%figure(1)
+%[x,y]=meshgrid(-4:0.1:4,-5:0.1:5);
+%z=-1/c *( a*x + b*y + d );
+%surf(x,y,z)
+
+%xlabel('x'); ylabel('y'); zlabel('z');
+%ax = gca; ax.FontSize = 15;
+
+
+
+
+%a=2;b=-3;c=1;
+%d1=2;d2=-10;
+
+%[ x , y ] = meshgrid( -6: 0.5: 4 , -5:0.5:5 );
+%z1 = -1/c *( a*x + b*y + d1 );
+%z2 = -1/c *( a*x + b*y + d2 );
+
+%figure(1)
+%surf( x , y , z1 )
+%hold on
+%surf( x , y , z2 )
+%hold off
+
+%xlabel('x'); ylabel('y'); zlabel('z');
+%ax = gca; ax.FontSize = 15;
+
+
+
+
+
+%a1=1;b1=-5;c1=2;d1=1;
+%a2=3;b2=-3;c2=2;d2=-3;
+
+%[ x , y ] = meshgrid( -5: 0.5: 5 , -3:0.5:7 );
+%z1 = -1/c1 *( a1*x + b1*y + d1 );
+%z2 = -1/c2 *( a2*x + b2*y + d2 );
+
+%figure(1)
+%surf( x , y , z1 )
+%hold on
+%surf( x , y , z2 )
+%hold off
+
+%xlabel('x'); ylabel('y'); zlabel('z');
+%ax = gca; ax.FontSize = 15;
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+[X,Y] = meshgrid( -4: 0.1: 4 , -4:0.1:4 ) ; % Create a 2−D gr id c o ord ina t es
+Z= (X.^3 ) + (Y.^ 3 ) - 3*(X.^2) ; % Z g e ts the express ion 3x ˆ2 − 4 y ˆ2
+
+sc = surf (X, Y, Z ) ; 
