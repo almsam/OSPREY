@@ -68,13 +68,27 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 3         | Minami   | 39, & 7             | 44           | 41            |                     | yes                       |
+| 3         | Minami   | 39, & 7             | 44           | 41            | over 3              | yes                       |
 | 3         | Estella  | 32                  | 43           | 42            | under 1             | yes                       |
 
 - Backlog: clear minus Alex's extension
 
 - Writeup: ` Now that we have a level of UI, we are now prototyping the experience - main landmark is Alex stepping back & Jacob stepping inas new dev `
 
+
+
+#### Iteration 6
+
+- dates: [21/7/2025] to [27/7/2025]
+
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 3         | Minami   | 31                  | 46           | 45            | over 3              | yes                       |
+| 3         | Estella  | 42                  | 47           | 48            |                     | yes                       |
+
+- Backlog: clear as Alex's issue was re assigned
+
+- Writeup: `  `
 
 
 
