@@ -52,9 +52,9 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 3         | Minami   | 25, 29, & 1         | 36           | 39            | around 1            | yes                       |
-| 3         | Estella  | 30                  | 38           | 32            | over 2              | yes                       |
-| 3         | Alex     | 26, & 3             | 37           | 40            | over 3              | yes                       |
+| 4         | Minami   | 25, 29, & 1         | 36           | 39            | around 1            | yes                       |
+| 4         | Estella  | 30                  | 38           | 32            | over 2              | yes                       |
+| 4         | Alex     | 26, & 3             | 37           | 40            | over 3              | yes                       |
 
 - Backlog: issue 7
 
@@ -68,8 +68,8 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 3         | Minami   | 39, & 7             | 44           | 41            | over 3              | yes                       |
-| 3         | Estella  | 32                  | 43           | 42            | under 1             | yes                       |
+| 5         | Minami   | 39, & 7             | 44           | 41            | over 3              | yes                       |
+| 5         | Estella  | 32                  | 43           | 42            | under 1             | yes                       |
 
 - Backlog: clear minus Alex's extension
 
@@ -83,8 +83,8 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 3         | Minami   | 31                  | 46           | 45            | over 3              | yes                       |
-| 3         | Estella  | 42                  | 47           | 48            |                     | yes                       |
+| 6         | Minami   | 31                  | 46           | 45            | over 3              | yes                       |
+| 6         | Estella  | 42                  | 47           | 48            |                     | yes                       |
 
 - Backlog: clear as Alex's issue was re assigned
 
