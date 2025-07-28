@@ -88,7 +88,7 @@
 
 - Backlog: clear as Alex's issue was re assigned
 
-- Writeup: `  `
+- Writeup: ` UI prototyping in full force - these 2 developers that remain should get us what we need `
 
 
 
