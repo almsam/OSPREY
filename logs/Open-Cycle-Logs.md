@@ -94,11 +94,14 @@
 
 #### Iteration 7
 
-- dates: [21/7/2025] to [27/7/2025]
+- dates: [28/7/2025] to [3/8/2025]
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 7         | Minami   | 31                  | 46           | 45            | over 3              | yes                       |
+| 7         | Minami   | 31                  | 46           | 45            | over 3              | yes                       |
 
-- Backlog: clear as Alex's issue was re assigned
 
-- Writeup: ` UI prototyping in full force - these 2 developers that remain should get us what we need `
+- Backlog: 
+
+- Writeup: `  `
