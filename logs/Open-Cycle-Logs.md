@@ -92,3 +92,13 @@
 
 
 
+#### Iteration 7
+
+- dates: [21/7/2025] to [27/7/2025]
+
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+
+- Backlog: clear as Alex's issue was re assigned
+
+- Writeup: ` UI prototyping in full force - these 2 developers that remain should get us what we need `
