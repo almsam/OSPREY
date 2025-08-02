@@ -98,8 +98,8 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 7         | Minami   | 31                  |            |             |              |                        |
-| 7         | Estella  | 31                  |            |             |              |                        |
+| 7         | Minami   | 45                  |            |             |              |                        |
+| 7         | Estella  | 48 & 40             |            |             |              |                        |
 
 
 - Backlog: 
