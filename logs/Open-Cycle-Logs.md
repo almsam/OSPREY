@@ -104,4 +104,4 @@
 
 - Backlog: 
 
-- Writeup: `  `
+- Writeup: ` looks good so far - UI focus will switch from prototyping to capacitor, & we'll implement note functionality soon `
