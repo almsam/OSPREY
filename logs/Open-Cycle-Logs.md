@@ -95,7 +95,6 @@
 #### Iteration 7
 
 - dates: [28/7/2025] to [3/8/2025]
-
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
 | 7         | Minami   | 45                  | 49 & 51      | 57            | around 2            | yes                       |
@@ -105,3 +104,9 @@
 - Backlog: 
 
 - Writeup: ` looks good so far - UI focus will switch from prototyping to capacitor, & we'll implement note functionality soon `
+
+#### Iteration 8
+
+- dates: [4/8/2025] to [14/8/2025] (1.5 weeks)
+
+
