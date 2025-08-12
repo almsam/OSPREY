@@ -107,6 +107,16 @@
 
 #### Iteration 8
 
-- dates: [4/8/2025] to [14/8/2025] (1.5 weeks)
+- dates: [4/8/2025] to [13/8/2025] (1.5 weeks)
+
+
+#### Iteration 9
+
+- dates: [14/8/2025] to [24/8/2025] (1.5 weeks)
+
+
+#### Iteration 10
+
+- dates: [25/8/2025] to [31/8/2025]
 
 
