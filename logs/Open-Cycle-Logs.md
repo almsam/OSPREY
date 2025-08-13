@@ -112,7 +112,7 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 8         | Minami   | 57                  | 58           |               |             |                        |
+| 8         | Minami   | 57                  | 58           | 60            |                     |                           |
 | 8         | Estella  | 56                  | 59           | 55            | over 3              | yes                       |
 
 #### Iteration 9
