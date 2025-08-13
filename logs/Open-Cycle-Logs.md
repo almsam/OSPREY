@@ -95,6 +95,7 @@
 #### Iteration 7
 
 - dates: [28/7/2025] to [3/8/2025]
+
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
 | 7         | Minami   | 45                  | 49 & 51      | 57            | around 2            | yes                       |
@@ -109,6 +110,10 @@
 
 - dates: [4/8/2025] to [13/8/2025] (1.5 weeks)
 
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 8         | Minami   | 57                  | 58           |               |             |                        |
+| 8         | Estella  | 56                  | 59           | 55            |              |                        |
 
 #### Iteration 9
 
