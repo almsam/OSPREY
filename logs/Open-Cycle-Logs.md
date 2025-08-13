@@ -115,6 +115,11 @@
 | 8         | Minami   | 57                  | 58           | 60            |                     |                           |
 | 8         | Estella  | 56                  | 59           | 55            | over 3              | yes                       |
 
+
+- Backlog: 
+
+- Writeup: ` Android UI works so far, lets see if we can get independent UI for IOS & android & web app for future - in addition Estella will begin functionality for the app `
+
 #### Iteration 9
 
 - dates: [14/8/2025] to [24/8/2025] (1.5 weeks)
