@@ -124,6 +124,11 @@
 
 - dates: [14/8/2025] to [24/8/2025] (1.5 weeks)
 
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 9         | Minami   | 60                  | 61           |             |                     |                           |
+| 9         | Estella  | 55                  | 59 (close 2) |             | over 3              | yes                       |
+
 
 #### Iteration 10
 
