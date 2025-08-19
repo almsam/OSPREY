@@ -131,6 +131,10 @@
 | 9         | Bao      | n/a                 | n/a          | 64            | n/a                 | n/a                       |
 
 
+- Backlog: 
+
+- Writeup: ` Android UI Improving over time with Minami's work, Estella has begun functionality for the app & backend stuff, & Bao is back working on dev ops `
+
 #### Iteration 10
 
 - dates: [25/8/2025] to [31/8/2025]
