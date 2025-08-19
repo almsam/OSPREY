@@ -112,7 +112,7 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 8         | Minami   | 57                  | 58           | 60            |                     |                           |
+| 8         | Minami   | 57                  | 58           | 60            | over 3              | yes                       |
 | 8         | Estella  | 56                  | 59           | 55            | around 2            | yes                       |
 
 
@@ -126,7 +126,7 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 9         | Minami   | 60                  | 61           | 62            |                     |                           |
+| 9         | Minami   | 60                  | 61           | 62            | under 2             | yes                       |
 | 9         | Estella  | 55                  | 59 (close 2) | 63            | around 2            | yes                       |
 | 9         | Bao      | n/a                 | n/a          | 64            | n/a                 | n/a                       |
 
