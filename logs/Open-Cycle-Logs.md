@@ -141,7 +141,7 @@
 
 | Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
 | --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
-| 10        | Minami   | 62                  | 66           | 68            | under 3             | yes                       |
+| 10        | Minami   | 62                  | 66           | 68 (& 71 fix) | under 3             | yes                       |
 | 10        | Bao      | 64                  | 65           | 67            | around 2            | yes                       |
 
 
