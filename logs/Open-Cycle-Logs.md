@@ -144,3 +144,9 @@
 | 10        | Minami   | 62                  | 66           | 68            | under 3             | yes                       |
 | 10        | Bao      | 64                  | 65           | 67            | around 2            | yes                       |
 
+
+- Backlog: 
+
+- Writeup: ` See PR 65 - shift in focus but good progress non the less - clean up time `
+
+
