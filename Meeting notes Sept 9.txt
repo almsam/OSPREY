@@ -14,6 +14,18 @@ Jacob:
 
 Charles:
 
+	code quality: not bad - functionally perfect
+
+	punctuality: not bad - excused absense
+
+	greater image: picked up small pieces, not much overall
+
+	preference: shift to scientific computation, improved in stats due to cross training
+
+	feadback: branch naming convetion {IE setup/_ or docs/_ } - cleaner repos overall, directory is messy
+
+	lesssons: not much due to lack of volume, team work going forward
+
 Estella:
 
 Minami:
