@@ -1,5 +1,17 @@
 Jacob:
 
+	code quality: adequate
+
+	punctuality: adequate
+
+	greater image: lack of context, more doccumentation? use?
+
+	preference: no change
+
+	feadback: doccumentation was lacking - issues need description
+
+	lesssons: specifics of proj, Py environments, GH/CL, 
+
 Charles:
 
 Estella:
