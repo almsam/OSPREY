@@ -160,4 +160,4 @@
 
 - Backlog: 67, 69, 70, & 71
 
-
+- Writeup: ` We begun focus on web app UI, progress is smooth. If we can get Bao in proper & Estella off of her stuck issue we're on track to connect our good frontend to a db with due time `
