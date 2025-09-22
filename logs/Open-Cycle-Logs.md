@@ -153,4 +153,9 @@
 
 - dates: [8/9/2025] to [21/9/2025] (2 weeks)
 
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 11        | Minami   | 68                  | 72           |               | under 2             | yes                       |
+| 12        | Bao      | 73                  | 74           | ~             | around 2            | yes                       |
+
 
