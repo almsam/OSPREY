@@ -161,3 +161,15 @@
 - Backlog: 67, 69, 70, & 71
 
 - Writeup: ` We begun focus on web app UI, progress is smooth. If we can get Bao in proper & Estella off of her stuck issue we're on track to connect our good frontend to a db with due time `
+
+#### Iteration 13
+
+- dates: [22/9/2025] to [28/9/2025]
+
+| Iteration | Dev name | Completed Issue no. | Asociated PR | New Issue no. | Time taken vs 2 hrs | Project running smoothly? |
+| --------- | -------- | ------------------- | ------------ | ------------- | ------------------- | ------------------------- |
+| 11        | Minami   | 75                  | 76           | backlog       | under 2             | yes                       |
+
+- Backlog: 67, 69, 70, & 71
+
+- Writeup: ` Smooth sailing - next task is to get Bao & Estella back in the game `
