@@ -23,6 +23,9 @@ In this doccument you will find a list of our current projects, how to get invol
 
 ## Our Projects:
 
+### Numerical Analysis Code
+
+A collection of Python implementations for classic numerical methods — from root-finding and interpolation to ODE solvers and regression fitting. Built to bridge math theory and real-world coding practice. This project features the versatile “Plot Finder” regression tool - the first implementation of universal regression fitting in Python!
 
 ---
 
