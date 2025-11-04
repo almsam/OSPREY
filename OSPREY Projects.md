@@ -31,6 +31,10 @@ A collection of Python implementations for classic numerical methods — from ro
 
 A privacy-first, open-source period tracking app. Tracks cycles, predicts ovulation, and visualizes trends — all with local data storage and no ads, built using React, Tailwind, and Capacitor under the OSPREY umbrella.
 
+### Ry Stats Lang
+
+A modern statistical programming language inspired by R and scalable into Python. Designed for intuitive data analysis, REPL interactivity, and Python-level extensibility — Ry reimagines R for today’s data science ecosystem while maintaining the ecosystem & ease of use the original R has.
+
 ---
 
 ## Other information
