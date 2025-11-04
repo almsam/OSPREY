@@ -27,6 +27,10 @@ In this doccument you will find a list of our current projects, how to get invol
 
 A collection of Python implementations for classic numerical methods — from root-finding and interpolation to ODE solvers and regression fitting. Built to bridge math theory and real-world coding practice. This project features the versatile “Plot Finder” regression tool - the first implementation of universal regression fitting in Python!
 
+### Open Cycle
+
+A privacy-first, open-source period tracking app. Tracks cycles, predicts ovulation, and visualizes trends — all with local data storage and no ads, built using React, Tailwind, and Capacitor under the OSPREY umbrella.
+
 ---
 
 ## Other information
