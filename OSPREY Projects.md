@@ -21,7 +21,7 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 
 In this doccument you will find a list of our current projects, how to get involved, and links to the asociated repo's for y'all to check out our work
 
-## Our Projects
+## Our Projects:
 
 
 ---
