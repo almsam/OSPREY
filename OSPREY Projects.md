@@ -21,7 +21,16 @@ OSPREY is an open-source initiative designed to give contributors—especially f
 
 In this doccument you will find a list of our current projects, how to get involved, and links to the asociated repo's for y'all to check out our work
 
-## How It Works
+## Our Projects
+
+
+---
+
+## Other information
+
+See our **[Code of Conduct](CODE_OF_CONDUCT.md)** for more details on our culture
+See our **[License template](OSPREY License template.txt)** for copyright and licensing information
+See our **[README](README.md)** for general information about OSPREY
 
 
 ---
