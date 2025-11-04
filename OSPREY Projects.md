@@ -33,6 +33,8 @@ see the repo here: [Numerical Analysis Code](https://github.com/almsam/Numerical
 
 A privacy-first, open-source period tracking app. Tracks cycles, predicts ovulation, and visualizes trends — all with local data storage and no ads, built using React, Tailwind, and Capacitor under the OSPREY umbrella.
 
+see the repo here: [Open Cycle](https://github.com/almsam/Open-Cycle)
+
 ### Ry Stats Lang
 
 A modern statistical programming language inspired by R and scalable into Python. Designed for intuitive data analysis, REPL interactivity, and Python-level extensibility — Ry reimagines R for today’s data science ecosystem while maintaining the ecosystem & ease of use the original R has.
