@@ -39,6 +39,8 @@ see the repo here: [Open Cycle](https://github.com/almsam/Open-Cycle)
 
 A modern statistical programming language inspired by R and scalable into Python. Designed for intuitive data analysis, REPL interactivity, and Python-level extensibility — Ry reimagines R for today’s data science ecosystem while maintaining the ecosystem & ease of use the original R has.
 
+see the repo here: [Ry Stats Lang](https://github.com/almsam/Ry-Stats-Lib)
+
 ---
 
 ## Other information
